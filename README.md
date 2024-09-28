@@ -9,3 +9,5 @@ In HTML, the menu bar is structured using an unordered list and list items, whil
 Menu bars are often a critical component of web design, ensuring that navigation is intuitive and user-friendly.
 
 
+SLIDER.HTML
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/8cbe1ee8-6fa4-42d3-ad4e-5dc605ff1f3f">
